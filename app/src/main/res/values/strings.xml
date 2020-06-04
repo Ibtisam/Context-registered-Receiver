@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Context Registered Receiver</string>
+    <string name="b1">Broadcast</string>
+</resources>
